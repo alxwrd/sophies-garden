@@ -1,6 +1,9 @@
-# Sophie's Garden :cherry_blossom:
+```diff
+- ARCHIVED
+I have no plans to work on this repo in the future. Either send me an email, or fork the repo.
+```
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/alxwrd.asuscomm.com.svg)](http://alxwrd.asuscomm.com/)
+# Sophie's Garden :cherry_blossom:
 
 Sophie's Garden is a bottle python web server running on a raspberry pi in my kitchen. It is connected to a webcam and is scheduled to take a picture every 30 minutes of some herbs that we hope to grow! The last 10 pictures are shown on the home page.
 
